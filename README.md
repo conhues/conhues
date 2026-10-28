@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MLOps-6E40C9?style=for-the-badge" alt="MLOps">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
 </p>
 
 <hr>
@@ -29,11 +30,11 @@
   <tr>
     <td align="center"><b>🔧 Building</b><br><sub>Side projects in data science<br>and ML engineering</sub></td>
     <td align="center"><b>📚 Studying</b><br><sub>AWS ML Engineer<br>certification</sub></td>
-    <td align="center"><b>📬 Ask me about</b><br><sub>Optimisation • LLMs • MLOps</sub></td>
+    <td align="center"><b>📬 Ask me about</b><br><sub>Optimisation, Large Language<br>Models, MLOps</sub></td>
   </tr>
 </table>
 
-<br>
+<hr>
 
 <p align="center">
   <a href="https://linkedin.com/in/cnrhughes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
