@@ -29,7 +29,7 @@
   <tr>
     <td align="center"><b>🔧 Building</b><br><sub>Side projects in data science<br>and ML engineering</sub></td>
     <td align="center"><b>📚 Studying</b><br><sub>AWS ML Engineer<br>certification</sub></td>
-    <td align="center"><b>📬 Ask me about</b><br><sub>Optimisation • NLP • MLOps</sub></td>
+    <td align="center"><b>📬 Ask me about</b><br><sub>Optimisation • LLMs • MLOps</sub></td>
   </tr>
 </table>
 
