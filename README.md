@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist & Machine Learning Engineer, London</b><br>
-  <sub>Optimisation • Language Modelling • Forecasting</sub>
+  <sub>Optimisation • Large Language Models • Forecasting</sub>
 </p>
 
 <p align="center">
