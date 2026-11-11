@@ -28,8 +28,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>🔧 Building</b><br><sub>Side projects in data science<br>and ML engineering</sub></td>
-    <td align="center"><b>📚 Studying</b><br><sub>AWS ML Engineer<br>certification</sub></td>
+    <td align="center"><b>🔧 Building</b><br><sub>Side Projects in Data Science<br>and ML Engineering</sub></td>
+    <td align="center"><b>📚 Studying</b><br><sub>AWS ML Engineer<br>Certification</sub></td>
     <td align="center"><b>📬 Ask me about</b><br><sub>Optimisation, Large Language<br>Models, Forecasting</sub></td>
   </tr>
 </table>
